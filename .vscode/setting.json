@@ -1,0 +1,10 @@
+{
+	"editor.defaulFormatter": "rome.rome",
+	"[javascript]": {
+		"editor.defaulFormatter": "rome.rome"
+	},
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports.rome": true
+	}
+}
